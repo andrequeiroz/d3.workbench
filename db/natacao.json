@@ -1,0 +1,1060 @@
+[
+ {
+ "codigo": "fs50",
+"prova": "50m Freestyle",
+"registros": {
+ "masculino": [
+ {
+ "data": "1976-08-14",
+"nome": "Jonty Skinner",
+"nacionalidade": "South Africa",
+"tempo":  23.86 
+},
+{
+ "data": "1977-07-03",
+"nome": "Joe Bottom",
+"nacionalidade": "United States",
+"tempo":  23.74 
+},
+{
+ "data": "1978-07-29",
+"nome": "Ron Manganiello",
+"nacionalidade": "United States",
+"tempo":  23.72 
+},
+{
+ "data": "1979-07-23",
+"nome": "Klaus Steinbach",
+"nacionalidade": "West Germany",
+"tempo":   23.7 
+},
+{
+ "data": "1980-02-02",
+"nome": "Chris Cavanaugh",
+"nacionalidade": "United States",
+"tempo":  23.66 
+},
+{
+ "data": "1980-04-10",
+"nome": "Chris Cavanaugh",
+"nacionalidade": "United States",
+"tempo":  23.12 
+},
+{
+ "data": "1980-04-10",
+"nome": "Rowdy Gaines",
+"nacionalidade": "United States",
+"tempo":  22.96 
+},
+{
+ "data": "1980-04-10",
+"nome": "Bruce Stahl",
+"nacionalidade": "United States",
+"tempo":  22.83 
+},
+{
+ "data": "1980-08-15",
+"nome": "Joe Bottom",
+"nacionalidade": "United States",
+"tempo":  22.83 
+},
+{
+ "data": "1980-08-15",
+"nome": "Joe Bottom",
+"nacionalidade": "United States",
+"tempo":  22.71 
+},
+{
+ "data": "1981-08-15",
+"nome": "Robin Leamy",
+"nacionalidade": "United States",
+"tempo":  22.54 
+},
+{
+ "data": "1985-07-21",
+"nome": "Dano Halsall",
+"nacionalidade": "Switzerland",
+"tempo":  22.52 
+},
+{
+ "data": "1985-12-06",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":   22.4 
+},
+{
+ "data": "1986-06-26",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  22.33 
+},
+{
+ "data": "1987-07-30",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  22.33 
+},
+{
+ "data": "1987-08-13",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":  22.32 
+},
+{
+ "data": "1988-03-25",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":  22.23 
+},
+{
+ "data": "1988-04-10",
+"nome": "Peter Williams",
+"nacionalidade": "South Africa",
+"tempo":  22.18 
+},
+{
+ "data": "1988-09-24",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  22.14 
+},
+{
+ "data": "1989-08-20",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":  22.12 
+},
+{
+ "data": "1990-03-24",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":  21.98 
+},
+{
+ "data": "1990-03-24",
+"nome": "Tom Jager",
+"nacionalidade": "United States",
+"tempo":  21.81 
+},
+{
+ "data": "2000-06-01",
+"nome": "Alexander Popov",
+"nacionalidade": "Russia",
+"tempo":  21.64 
+},
+{
+ "data": "2008-02-17",
+"nome": "Eamon Sullivan",
+"nacionalidade": "Australia",
+"tempo":  21.56 
+},
+{
+ "data": "2008-03-23",
+"nome": "Alain Bernard",
+"nacionalidade": "France",
+"tempo":   21.5 
+},
+{
+ "data": "2008-03-27",
+"nome": "Eamon Sullivan",
+"nacionalidade": "Australia",
+"tempo":  21.41 
+},
+{
+ "data": "2008-03-28",
+"nome": "Eamon Sullivan",
+"nacionalidade": "Australia",
+"tempo":  21.28 
+},
+{
+ "data": "2009-04-26",
+"nome": "Frédérick Bousquet",
+"nacionalidade": "France",
+"tempo":  20.94 
+},
+{
+ "data": "2009-12-18",
+"nome": "César Cielo",
+"nacionalidade": "Brazil",
+"tempo":  20.91 
+} 
+],
+"feminino": [
+ {
+ "data": "1975-07-26",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  26.99 
+},
+{
+ "data": "1977-08-16",
+"nome": "Johanna Malloy",
+"nacionalidade": "Canada",
+"tempo":  26.95 
+},
+{
+ "data": "1978-08-19",
+"nome": "Anne Jardin",
+"nacionalidade": "Canada",
+"tempo":  26.74 
+},
+{
+ "data": "1980-04-10",
+"nome": "Cynthia Woodhead",
+"nacionalidade": "United States",
+"tempo":  26.61 
+},
+{
+ "data": "1980-04-10",
+"nome": "Kelly Asplund",
+"nacionalidade": "United States",
+"tempo":  26.53 
+},
+{
+ "data": "1980-04-10",
+"nome": "Jill Sterkel",
+"nacionalidade": "United States",
+"tempo":  26.32 
+},
+{
+ "data": "1980-04-10",
+"nome": "Jill Sterkel",
+"nacionalidade": "United States",
+"tempo":  25.96 
+},
+{
+ "data": "1981-04-03",
+"nome": "Jill Sterkel",
+"nacionalidade": "United States",
+"tempo":  25.79 
+},
+{
+ "data": "1983-01-29",
+"nome": "Dara Torres",
+"nacionalidade": "United States",
+"tempo":  25.69 
+},
+{
+ "data": "1983-07-09",
+"nome": "Annemarie Verstappen",
+"nacionalidade": "Netherlands",
+"tempo":  25.64 
+},
+{
+ "data": "1983-08-05",
+"nome": "Dara Torres",
+"nacionalidade": "United States",
+"tempo":  25.62 
+},
+{
+ "data": "1984-07-21",
+"nome": "Dara Torres",
+"nacionalidade": "United States",
+"tempo":  25.61 
+},
+{
+ "data": "1986-07-16",
+"nome": "Tamara Costache",
+"nacionalidade": "Romania",
+"tempo":   25.5 
+},
+{
+ "data": "1986-07-16",
+"nome": "Tamara Costache",
+"nacionalidade": "Romania",
+"tempo":  25.34 
+},
+{
+ "data": "1986-08-01",
+"nome": "Tamara Costache",
+"nacionalidade": "Romania",
+"tempo":  25.31 
+},
+{
+ "data": "1986-08-23",
+"nome": "Tamara Costache",
+"nacionalidade": "Romania",
+"tempo":  25.28 
+},
+{
+ "data": "1988-04-11",
+"nome": "Yang Wenyi",
+"nacionalidade": "China",
+"tempo":  24.98 
+},
+{
+ "data": "1992-07-31",
+"nome": "Yang Wenyi",
+"nacionalidade": "China",
+"tempo":  24.79 
+},
+{
+ "data": "1994-09-11",
+"nome": "Le Jingyi",
+"nacionalidade": "China",
+"tempo":  24.51 
+},
+{
+ "data": "2000-05-26",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":  24.51 
+},
+{
+ "data": "2000-06-04",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":  24.48 
+},
+{
+ "data": "2000-06-10",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":  24.39 
+},
+{
+ "data": "2000-09-22",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":  24.13 
+},
+{
+ "data": "2008-03-24",
+"nome": "Marleen Veldhuis",
+"nacionalidade": "Netherlands",
+"tempo":  24.09 
+},
+{
+ "data": "2008-03-29",
+"nome": "Libby Trickett",
+"nacionalidade": "Australia",
+"tempo":  23.97 
+},
+{
+ "data": "2009-04-19",
+"nome": "Marleen Veldhuis",
+"nacionalidade": "Netherlands",
+"tempo":  23.96 
+},
+{
+ "data": "2009-08-02",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":  23.73 
+},
+{
+ "data": "2017-07-29",
+"nome": "Sarah Sjöström",
+"nacionalidade": "Sweden",
+"tempo":  23.67 
+} 
+] 
+} 
+},
+{
+ "codigo": "fs100",
+"prova": "100m Freestyle",
+"registros": {
+ "masculino": [
+ {
+ "data": "1905-12-03",
+"nome": "Zoltán Halmay",
+"nacionalidade": "Hungary",
+"tempo":   65.8 
+},
+{
+ "data": "1908-07-20",
+"nome": "Charles Daniels",
+"nacionalidade": "United States",
+"tempo":   65.6 
+},
+{
+ "data": "1910-04-15",
+"nome": "Charles Daniels",
+"nacionalidade": "United States",
+"tempo":   62.8 
+},
+{
+ "data": "1912-04-06",
+"nome": "Kurt Bretting",
+"nacionalidade": "Germany",
+"tempo":   62.4 
+},
+{
+ "data": "1912-07-20",
+"nome": "Duke Kahanamoku",
+"nacionalidade": "United States",
+"tempo":   61.6 
+},
+{
+ "data": "2018-09-19",
+"nome": "Duke Kahanamoku",
+"nacionalidade": "United States",
+"tempo":   61.4 
+},
+{
+ "data": "1920-08-24",
+"nome": "Duke Kahanamoku",
+"nacionalidade": "United States",
+"tempo":   60.4 
+},
+{
+ "data": "1922-07-19",
+"nome": "Johnny Weissmuller",
+"nacionalidade": "United States",
+"tempo":   58.6 
+},
+{
+ "data": "1924-02-17",
+"nome": "Johnny Weissmuller",
+"nacionalidade": "United States",
+"tempo":   57.4 
+},
+{
+ "data": "1934-03-02",
+"nome": "Peter Fick",
+"nacionalidade": "United States",
+"tempo":   56.8 
+},
+{
+ "data": "1935-03-05",
+"nome": "Peter Fick",
+"nacionalidade": "United States",
+"tempo":   56.6 
+},
+{
+ "data": "2036-11-19",
+"nome": "Peter Fick",
+"nacionalidade": "United States",
+"tempo":   56.4 
+},
+{
+ "data": "1944-04-13",
+"nome": "Alan Ford",
+"nacionalidade": "United States",
+"tempo":   55.9 
+},
+{
+ "data": "1947-09-15",
+"nome": "Alex Jany",
+"nacionalidade": "France",
+"tempo":   55.8 
+},
+{
+ "data": "1948-06-29",
+"nome": "Alan Ford",
+"nacionalidade": "United States",
+"tempo":   55.4 
+},
+{
+ "data": "1954-04-01",
+"nome": "Dick Cleveland",
+"nacionalidade": "United States",
+"tempo":   54.8 
+},
+{
+ "data": "1956-11-30",
+"nome": "Jon Henricks",
+"nacionalidade": "Australia",
+"tempo":   55.4 
+},
+{
+ "data": "1957-01-19",
+"nome": "John Devitt",
+"nacionalidade": "Australia",
+"tempo":   55.2 
+},
+{
+ "data": "1957-01-28",
+"nome": "John Devitt",
+"nacionalidade": "Australia",
+"tempo":   54.6 
+},
+{
+ "data": "1961-08-18",
+"nome": "Steve Clark",
+"nacionalidade": "United States",
+"tempo":   54.4 
+},
+{
+ "data": "1961-09-20",
+"nome": "Manuel dos Santos",
+"nacionalidade": "Brazil",
+"tempo":   53.6 
+},
+{
+ "data": "1964-09-13",
+"nome": "Alain Gottvallès",
+"nacionalidade": "France",
+"tempo":   52.9 
+},
+{
+ "data": "1964-10-14",
+"nome": "Steve Clark",
+"nacionalidade": "United States",
+"tempo":   52.9 
+},
+{
+ "data": "1967-07-27",
+"nome": "Ken Walsh",
+"nacionalidade": "United States",
+"tempo":   52.6 
+},
+{
+ "data": "1968-09-02",
+"nome": "Zac Zorn",
+"nacionalidade": "United States",
+"tempo":   52.6 
+},
+{
+ "data": "1968-10-19",
+"nome": "Michael Wenden",
+"nacionalidade": "Australia",
+"tempo":   52.2 
+},
+{
+ "data": "1970-08-23",
+"nome": "Mark Spitz",
+"nacionalidade": "United States",
+"tempo":  51.94 
+},
+{
+ "data": "1972-05-19",
+"nome": "Mark Spitz",
+"nacionalidade": "United States",
+"tempo":  51.47 
+},
+{
+ "data": "1972-09-03",
+"nome": "Mark Spitz",
+"nacionalidade": "United States",
+"tempo":  51.22 
+},
+{
+ "data": "1975-06-21",
+"nome": "Jim Montgomery",
+"nacionalidade": "United States",
+"tempo":  51.12 
+},
+{
+ "data": "1975-03-19",
+"nome": "Andy Coan",
+"nacionalidade": "United States",
+"tempo":  51.11 
+},
+{
+ "data": "1975-08-23",
+"nome": "Jim Montgomery",
+"nacionalidade": "United States",
+"tempo":  50.59 
+},
+{
+ "data": "1976-07-24",
+"nome": "Jim Montgomery",
+"nacionalidade": "United States",
+"tempo":  50.39 
+},
+{
+ "data": "1976-07-25",
+"nome": "Jim Montgomery",
+"nacionalidade": "United States",
+"tempo":  49.99 
+},
+{
+ "data": "1976-08-14",
+"nome": "Jonty Skinner",
+"nacionalidade": "South Africa",
+"tempo":  49.44 
+},
+{
+ "data": "1981-04-03",
+"nome": "Rowdy Gaines",
+"nacionalidade": "United States",
+"tempo":  49.36 
+},
+{
+ "data": "1985-06-19",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  49.24 
+},
+{
+ "data": "1985-06-19",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  48.95 
+},
+{
+ "data": "1986-06-24",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  48.74 
+},
+{
+ "data": "1988-10-19",
+"nome": "Matt Biondi",
+"nacionalidade": "United States",
+"tempo":  48.42 
+},
+{
+ "data": "1994-06-18",
+"nome": "Alexander Popov",
+"nacionalidade": "Russia",
+"tempo":  48.21 
+},
+{
+ "data": "2000-09-16",
+"nome": "Michael Klim",
+"nacionalidade": "Australia",
+"tempo":  48.18 
+},
+{
+ "data": "2000-09-19",
+"nome": "Pieter van den Hoogenband",
+"nacionalidade": "Netherlands",
+"tempo":  47.84 
+},
+{
+ "data": "2008-03-21",
+"nome": "Alain Bernard",
+"nacionalidade": "France",
+"tempo":   47.6 
+},
+{
+ "data": "2008-03-22",
+"nome": "Alain Bernard",
+"nacionalidade": "France",
+"tempo":   47.5 
+},
+{
+ "data": "2008-11-20",
+"nome": "Eamon Sullivan",
+"nacionalidade": "Australia",
+"tempo":  47.24 
+},
+{
+ "data": "2008-08-13",
+"nome": "Alain Bernard",
+"nacionalidade": "France",
+"tempo":   47.2 
+},
+{
+ "data": "2008-08-13",
+"nome": "Eamon Sullivan",
+"nacionalidade": "Australia",
+"tempo":  47.05 
+},
+{
+ "data": "2009-04-23",
+"nome": "Alain Bernard",
+"nacionalidade": "France",
+"tempo":  46.94 
+},
+{
+ "data": "2009-07-30",
+"nome": "César Cielo",
+"nacionalidade": "Brazil",
+"tempo":  46.91 
+} 
+],
+"feminino": [
+ {
+ "data": "1908-10-18",
+"nome": "Martha Gerstung",
+"nacionalidade": "Germany",
+"tempo":     95 
+},
+{
+ "data": "1910-10-02",
+"nome": "Claire Guttenstein",
+"nacionalidade": "Belgium",
+"tempo":   86.6 
+},
+{
+ "data": "1911-09-29",
+"nome": "Daisy Curwen",
+"nacionalidade": "Great Britain",
+"tempo":   84.6 
+},
+{
+ "data": "2012-10-19",
+"nome": "Daisy Curwen",
+"nacionalidade": "Great Britain",
+"tempo":   80.6 
+},
+{
+ "data": "1912-07-09",
+"nome": "Fanny Durack",
+"nacionalidade": "Australia",
+"tempo":   79.8 
+},
+{
+ "data": "1912-07-21",
+"nome": "Fanny Durack",
+"nacionalidade": "Australia",
+"tempo":   78.8 
+},
+{
+ "data": "1915-02-06",
+"nome": "Fanny Durack",
+"nacionalidade": "Australia",
+"tempo":   76.2 
+},
+{
+ "data": "1920-08-23",
+"nome": "Ethelda Bleibtrey",
+"nacionalidade": "United States",
+"tempo":   74.4 
+},
+{
+ "data": "1920-08-25",
+"nome": "Ethelda Bleibtrey",
+"nacionalidade": "United States",
+"tempo":   73.6 
+},
+{
+ "data": "1923-06-30",
+"nome": "Gertrude Ederle",
+"nacionalidade": "United States",
+"tempo":   72.8 
+},
+{
+ "data": "1924-07-19",
+"nome": "Mariechen Wehselau",
+"nacionalidade": "United States",
+"tempo":   72.2 
+},
+{
+ "data": "1926-01-28",
+"nome": "Ethel Lackie",
+"nacionalidade": "United States",
+"tempo":     70 
+},
+{
+ "data": "2029-07-19",
+"nome": "Eleanor Garatti",
+"nacionalidade": "United States",
+"tempo":   69.8 
+},
+{
+ "data": "1929-08-25",
+"nome": "Albina Osipowich",
+"nacionalidade": "United States",
+"tempo":   69.4 
+},
+{
+ "data": "1930-03-14",
+"nome": "Helene Madison",
+"nacionalidade": "United States",
+"tempo":     68 
+},
+{
+ "data": "1931-04-20",
+"nome": "Helene Madison",
+"nacionalidade": "United States",
+"tempo":   66.6 
+},
+{
+ "data": "1933-07-09",
+"nome": "Willy den Ouden",
+"nacionalidade": "Netherlands",
+"tempo":     66 
+},
+{
+ "data": "1934-02-24",
+"nome": "Willy den Ouden",
+"nacionalidade": "Netherlands",
+"tempo":   65.4 
+},
+{
+ "data": "1934-04-15",
+"nome": "Willy den Ouden",
+"nacionalidade": "Netherlands",
+"tempo":   64.8 
+},
+{
+ "data": "1936-02-27",
+"nome": "Willy den Ouden",
+"nacionalidade": "Netherlands",
+"tempo":   64.6 
+},
+{
+ "data": "1956-02-21",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   64.5 
+},
+{
+ "data": "1956-03-03",
+"nome": "Cocky Gastelaars",
+"nacionalidade": "Netherlands",
+"tempo":   64.2 
+},
+{
+ "data": "1956-04-14",
+"nome": "Cocky Gastelaars",
+"nacionalidade": "Netherlands",
+"tempo":     64 
+},
+{
+ "data": "1956-08-25",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   63.3 
+},
+{
+ "data": "1956-10-20",
+"nome": "Lorraine Crapp",
+"nacionalidade": "Australia",
+"tempo":   63.2 
+},
+{
+ "data": "1956-10-25",
+"nome": "Lorraine Crapp",
+"nacionalidade": "Australia",
+"tempo":   62.4 
+},
+{
+ "data": "1956-12-01",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":     62 
+},
+{
+ "data": "1958-02-18",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   61.5 
+},
+{
+ "data": "1958-07-21",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   61.4 
+},
+{
+ "data": "2058-10-19",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   61.2 
+},
+{
+ "data": "1960-02-23",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   60.2 
+},
+{
+ "data": "1962-10-23",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":     60 
+},
+{
+ "data": "1962-10-27",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   59.9 
+},
+{
+ "data": "1962-11-24",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   59.5 
+},
+{
+ "data": "1964-02-29",
+"nome": "Dawn Fraser",
+"nacionalidade": "Australia",
+"tempo":   58.9 
+},
+{
+ "data": "1971-04-30",
+"nome": "Shane Gould",
+"nacionalidade": "Australia",
+"tempo":   58.9 
+},
+{
+ "data": "1972-01-08",
+"nome": "Shane Gould",
+"nacionalidade": "Australia",
+"tempo":   58.5 
+},
+{
+ "data": "1973-07-13",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  58.25 
+},
+{
+ "data": "1973-08-18",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  58.12 
+},
+{
+ "data": "1973-09-08",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  57.61 
+},
+{
+ "data": "1973-09-09",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  57.54 
+},
+{
+ "data": "1974-07-04",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  57.51 
+},
+{
+ "data": "1974-08-19",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  56.96 
+},
+{
+ "data": "1975-03-14",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  56.38 
+},
+{
+ "data": "1975-07-26",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  56.22 
+},
+{
+ "data": "1976-01-19",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  55.73 
+},
+{
+ "data": "1976-07-19",
+"nome": "Kornelia Ender",
+"nacionalidade": "East Germany",
+"tempo":  55.65 
+},
+{
+ "data": "1978-07-05",
+"nome": "Barbara Krause",
+"nacionalidade": "East Germany",
+"tempo":  55.41 
+},
+{
+ "data": "1980-07-20",
+"nome": "Barbara Krause",
+"nacionalidade": "East Germany",
+"tempo":  54.98 
+},
+{
+ "data": "1980-07-21",
+"nome": "Barbara Krause",
+"nacionalidade": "East Germany",
+"tempo":  54.79 
+},
+{
+ "data": "1986-08-19",
+"nome": "Kristin Otto",
+"nacionalidade": "East Germany",
+"tempo":  54.73 
+},
+{
+ "data": "1992-03-01",
+"nome": "Jenny Thompson",
+"nacionalidade": "United States",
+"tempo":  54.48 
+},
+{
+ "data": "1994-09-05",
+"nome": "Jingyi Le",
+"nacionalidade": "China",
+"tempo":  54.01 
+},
+{
+ "data": "2000-05-28",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":   53.8 
+},
+{
+ "data": "2000-09-20",
+"nome": "Inge de Bruijn",
+"nacionalidade": "Netherlands",
+"tempo":  53.77 
+},
+{
+ "data": "2004-03-31",
+"nome": "Libby Lenton",
+"nacionalidade": "Australia",
+"tempo":  53.66 
+},
+{
+ "data": "2004-08-18",
+"nome": "Jodie Henry",
+"nacionalidade": "Australia",
+"tempo":  53.52 
+},
+{
+ "data": "2006-01-31",
+"nome": "Libby Lenton",
+"nacionalidade": "Australia",
+"tempo":  53.42 
+},
+{
+ "data": "2006-02-20",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":   53.3 
+},
+{
+ "data": "2008-03-27",
+"nome": "Libby Trickett",
+"nacionalidade": "Australia",
+"tempo":  52.88 
+},
+{
+ "data": "2009-06-25",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":  52.85 
+},
+{
+ "data": "2009-06-27",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":  52.56 
+},
+{
+ "data": "2009-07-26",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":  52.22 
+},
+{
+ "data": "2009-07-31",
+"nome": "Britta Steffen",
+"nacionalidade": "Germany",
+"tempo":  52.07 
+},
+{
+ "data": "2016-07-02",
+"nome": "Cate Campbell",
+"nacionalidade": "Australia",
+"tempo":  52.06 
+},
+{
+ "data": "2017-07-23",
+"nome": "Sarah Sjöström",
+"nacionalidade": "Sweden",
+"tempo":  51.71 
+} 
+] 
+} 
+} 
+]
