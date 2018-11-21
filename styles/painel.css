@@ -2,3 +2,16 @@ p {
   font-family: sans-serif;
   font-size: 12pt;
 }
+
+.painel-botoes {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.painel-botoes:hover {
+  background: steelblue;
+  color: aliceblue;
+}
