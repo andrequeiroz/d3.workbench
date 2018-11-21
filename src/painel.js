@@ -19,23 +19,79 @@ function executar(dados) {
           .attr("value", function(d) { return d.codigo; })
           .text(function(d) { return d.prova; });
 
-    var prova = x.filter(function(el) {
-      return el.codigo === seletor.options[seletor.selectedIndex].value;
-    });
-
     // menu de opções
-    var paineis = [ "Masculino", "Feminino" ];
-    var menu = painel.append("div")
-                     .attr("id", "painel-menu");
+    var paineis = [ { "painel": "Masculino", "funcao": "painelMasculino(dados)" },
+                    { "painel": "Feminino", "funcao": "painelFeminino(dados)" } ];
 
-    var botoes = menu.selectAll("button")
-                     .data(paineis)
-                     .enter()
-                     .append("button")
-                     .attr("class", "painel-botoes")
-                     .text(function(d) { return d; })
+    painel.append("div")
+          .attr("id", "painel-menu")
+          .selectAll("button")
+          .data(paineis)
+          .enter()
+          .append("button")
+          .attr("class", "painel-botoes")
+          .attr("onclick", function(d) { return d.funcao; })
+          .text(function(d) { return d.painel; });
 
-    prova = prova[0];
-    console.log(prova);
+    painelMasculino(dados);
+  });
+}
+
+// filtrar os dados
+function filtrarDados(dados) {
+
+  var resultado = dados.filter(function(el) {
+    return el.codigo === seletor.options[seletor.selectedIndex].value;
+  });
+
+  resultado = resultado[0];
+
+  return resultado;
+}
+
+// área de visualização
+function criarArea() {
+
+  // checar se área já existe
+  var elemento = document.getElementById("painel-area");
+
+  if (elemento != null) {
+    d3.select("body")
+      .select("div#painel-area")
+      .remove();
+  }
+
+  var resultado = d3.select("body")
+                    .append("div")
+                    .attr("id", "painel-area");
+
+  return resultado;
+}
+
+function painelMasculino(dados) {
+
+  d3.json(dados).then(function(x) {
+
+    var area = criarArea();
+
+    area.append("p")
+        .text("Painel Masculino");
+
+    prova = filtrarDados(x);
+    console.log("masc");
+  });
+}
+
+function painelFeminino(dados) {
+
+  d3.json(dados).then(function(x) {
+
+    var area = criarArea();
+
+    area.append("p")
+        .text("Painel Feminino");
+
+    prova = filtrarDados(x);
+    console.log("fem");
   });
 }
