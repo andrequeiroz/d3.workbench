@@ -1,6 +1,6 @@
-p {
+p, text {
   font-family: sans-serif;
-  font-size: 12pt;
+  font-size: 10pt;
 }
 
 .painel-botoes {
@@ -14,4 +14,10 @@ p {
 .painel-botoes:hover {
   background: steelblue;
   color: aliceblue;
+}
+
+path.serie {
+  fill: none;
+  stroke-width: 2px;
+  stroke: steelblue;
 }
