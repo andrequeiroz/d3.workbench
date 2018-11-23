@@ -22,8 +22,8 @@ function executar(dados) {
           .text(function(d) { return d.prova; });
 
     // menu de opções
-    var paineis = [{ "painel": "Masculino", "funcao": "painelMasculino(dados)" },
-                   { "painel": "Feminino", "funcao": "painelFeminino(dados)" }];
+    var paineis = [{ "painel": "Masculino", "id": "bMasculino", "funcao": "painelMasculino(dados, this.id)" },
+                   { "painel": "Feminino", "id": "bFeminino", "funcao": "painelFeminino(dados, this.id)" }];
 
     painel.append("div")
           .attr("id", "painel-menu")
@@ -31,11 +31,12 @@ function executar(dados) {
           .data(paineis)
           .enter()
           .append("button")
+          .attr("id", function(d) { return d.id; })
           .attr("class", "painel-botoes")
           .attr("onclick", function(d) { return d.funcao; })
           .text(function(d) { return d.painel; });
 
-    painelMasculino(dados);
+    painelMasculino(dados, "bMasculino");
   });
 }
 
@@ -70,7 +71,33 @@ function criarArea() {
   return resultado;
 }
 
-function painelMasculino(dados) {
+// marcar botão clicado
+function destacarBotao(botao) {
+
+  // pintar todos de branco
+  d3.selectAll("button.painel-botoes")
+    .style("background-color", "inherit")
+    .style("color", "inherit")
+    .on("mouseover", function() {
+      d3.select(this)
+        .style("background-color", "lightblue");
+    })
+    .on("mouseout", function() {
+      d3.select(this)
+        .style("background-color", "inherit");
+    });
+
+  // pintar o selecionado de azul
+  d3.select("button#" + botao)
+    .style("background-color", "steelblue")
+    .style("color", "aliceblue")
+    .on("mouseover", null)
+    .on("mouseout", null);
+}
+
+function painelMasculino(dados, botao) {
+
+  destacarBotao(botao);
 
   d3.json(dados).then(function(x) {
 
@@ -205,7 +232,9 @@ function painelMasculino(dados) {
   });
 }
 
-function painelFeminino(dados) {
+function painelFeminino(dados, botao) {
+
+  destacarBotao(botao);
 
   d3.json(dados).then(function(x) {
 

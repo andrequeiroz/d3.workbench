@@ -5,15 +5,9 @@ p, text {
 
 .painel-botoes {
   border: none;
-  background-color: inherit;
   padding: 14px 28px;
   cursor: pointer;
   display: inline-block;
-}
-
-.painel-botoes:hover {
-  background: steelblue;
-  color: aliceblue;
 }
 
 path.serie {
