@@ -1,6 +1,18 @@
+Number.prototype.zeros = function(tam) {
+  var n = String(this);
+  while (n.length < (tam || 2)) {
+    n = "0" + n;
+  }
+  return n;
+}
+
 function gerarMapa(malha) {
   var largura = 350;
   var altura = 350;
+
+  var cores = d3.scaleLinear()
+                .domain([0, 1])
+                .range(["gold", "darkgreen"]);
 
   var area = d3.select("body")
                .append("svg")
@@ -15,19 +27,23 @@ function gerarMapa(malha) {
   var poligonos = d3.geoPath()
                     .projection(projecaoAlbers);
 
+  var corMem = "";
   area.selectAll("path")
       .data(malha.features)
       .enter()
       .append("path")
-      .attr("fill", "darkgreen")
+      .attr("id", function(d) { return "poly" + d.properties.id.zeros(2); })
+      .attr("fill", function(d) { return cores(Math.random()); })
       .attr("stroke", "black")
       .attr("d", poligonos)
       .on("mouseover", function() {
+        corMem = d3.select(this).attr("fill");
         d3.select(this)
-          .attr("fill", "lightgreen");
+          .attr("fill", "lightblue");
       })
       .on("mouseout", function() {
         d3.select(this)
-          .attr("fill", "darkgreen");
+          .attr("fill", corMem);
+        corMem = "";
       });
 }
