@@ -9,7 +9,7 @@ base <- data.frame(paginas = c("https://en.wikipedia.org/wiki/World_record_progr
                                "https://en.wikipedia.org/wiki/World_record_progression_100_metres_freestyle"),
                    codigos = c("fs50", "fs100"),
                    provas = c("50m Freestyle", "100m Freestyle")) %>%
-  mutate_all(funs(as.character(.)))
+  mutate_all(~as.character(.))
 
 for (.p in 1:nrow(base)) {
 
